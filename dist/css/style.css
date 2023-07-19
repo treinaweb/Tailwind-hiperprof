@@ -534,10 +534,6 @@ video {
   --tw-backdrop-sepia:  ;
 }
 
-.font-inter {
-  font-family: Inter, sans-serif;
-}
-
 .font-iceland {
   font-family: Iceland;
 }
@@ -545,4 +541,8 @@ video {
 .text-green-400 {
   --tw-text-opacity: 1;
   color: rgb(74 222 128 / var(--tw-text-opacity));
+}
+
+* {
+  font-family: Inter, sans-serif;
 }
