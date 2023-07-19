@@ -534,9 +534,12 @@ video {
   --tw-backdrop-sepia:  ;
 }
 
-.text-blue-400 {
-  --tw-text-opacity: 1;
-  color: rgb(96 165 250 / var(--tw-text-opacity));
+.font-inter {
+  font-family: Inter, sans-serif;
+}
+
+.font-iceland {
+  font-family: Iceland;
 }
 
 .text-green-400 {
