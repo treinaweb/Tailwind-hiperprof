@@ -651,3 +651,13 @@ video {
 * {
   font-family: Inter, sans-serif;
 }
+
+@media (min-width: 640px) {
+  .sm\:flex-row {
+    flex-direction: row;
+  }
+
+  .sm\:justify-between {
+    justify-content: space-between;
+  }
+}
