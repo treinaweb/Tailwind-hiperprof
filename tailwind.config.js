@@ -14,6 +14,10 @@ module.exports = {
       fontFamily: {
         'inter': ['Inter', 'sans-serif'],
         'iceland': ['Iceland']
+      },
+      colors: {
+        purple: "#5840BA",
+        lightpurple: "#382194",
       }
     },
   },
