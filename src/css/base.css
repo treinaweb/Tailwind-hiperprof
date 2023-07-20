@@ -7,13 +7,13 @@
 }
 
 .card-boby {
-    @apply flex flex-col items-center gap-4 bg-purple text-white text-center p-4 rounded-b-md;
+    @apply flex flex-col items-center gap-4 bg-purple text-white text-center p-6 rounded-b-md;
 }
 
 .card-title {
-    @apply font-extrabold text-xl;
+    @apply font-extrabold text-base;
 }
 
 .card-button {
-    @apply border rounded w-48 font-extrabold p-3 hover:bg-lightpurple;
+    @apply border rounded w-48 font-extrabold p-3 text-[10px] hover:bg-lightpurple;
 }
