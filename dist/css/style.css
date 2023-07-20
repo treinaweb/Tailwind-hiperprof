@@ -570,6 +570,16 @@ video {
   margin-right: 1.25rem;
 }
 
+.my-40 {
+  margin-top: 10rem;
+  margin-bottom: 10rem;
+}
+
+.my-96 {
+  margin-top: 24rem;
+  margin-bottom: 24rem;
+}
+
 .mb-10 {
   margin-bottom: 2.5rem;
 }
