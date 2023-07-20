@@ -5,3 +5,15 @@
 * {
     @apply font-inter;
 }
+
+.card-boby {
+    @apply flex flex-col items-center gap-4 bg-purple text-white text-center p-4 rounded-b-md;
+}
+
+.card-title {
+    @apply font-extrabold text-xl;
+}
+
+.card-button {
+    @apply border rounded w-48 font-extrabold p-3 hover:bg-lightpurple;
+}
